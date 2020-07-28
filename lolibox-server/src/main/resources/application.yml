@@ -28,7 +28,7 @@ logging:
 # 管理员配置
 admin:
   # 管理员的邮箱，你需要修改这里的配置，并在成功运行后，注册一个这个邮箱的账号
-  email: admin@yoursite.com
+  email: 1398524837@qq.com
   # 是否开启匿名上传
   anonymous: false
   # 是否开启注册邀请，具体怎么用请提issue

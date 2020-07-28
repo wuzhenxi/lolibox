@@ -5,9 +5,9 @@
 
     <groupId>io.loli</groupId>
     <artifactId>lolibox</artifactId>
-    <version>0.2.6-SNAPSHOT</version>
+    <version>0.2.6</version>
     <packaging>pom</packaging>
-    <url>https://github.com/chocotan/lolibox</url>
+    <url>https://github.com/wuzhenxi/lolibox</url>
 
     <name>Lolibox</name>
     <description>A simple, fast image hosting software</description>
